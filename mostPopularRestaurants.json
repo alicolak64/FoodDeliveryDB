@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Turk Fatih Tutak",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lezzet.com.tr%2Flezzetten-haberler%2F2-michelin-yildizi-alan-restoran-turk-fatih-tutak&psig=AOvVaw0tujoD9H9RiDl5boC_0V5h&ust=1698352407560000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCIofGFkoIDFQAAAAAdAAAAABAX",
+            "description":"Turkish chef Fatih Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. ",
+            "categoryId":1,
+            "ratingCount": 124,
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "name": "7 Mehmet",
+            "image": "https://a.cdn-hotels.com/gdcs/production198/d1455/18acea99-7a13-481e-9f37-d8e4fe307a47.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+            "description": "7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. ",
+            "categoryId":1,
+            "ratingCount": 89,
+            "rating": 4.9
+        },
+        {
+            "id":3,
+            "name": "Karaköy Lokantası",
+            "image":"https://media-cdn.tripadvisor.com/media/photo-s/1c/1f/e9/e7/photo2jpg.jpg",
+            "description":"",
+            "categoryId":1,
+            "ratingCount": 128,
+            "rating": 4.7
+        },
+        {
+            "id": 70,
+            "name": "Pancake Paradise",
+            "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/09/Homemade_Pancakes_With_Chocolate_Chips.png",
+            "description": "Pancake Paradise is known for its fluffy and delectable pancake creations.",
+            "categoryId":15,
+            "ratingCount": 89,
+            "rating": 4.7
+        },
+        {
+            "id": 65,
+            "name": "Tea Haven",
+            "image": "https://i.pinimg.com/1200x/aa/1e/c9/aa1ec920c3cd1fe217777103b7b9f0e7.jpg",
+            "description": "Tea Haven is a paradise for tea enthusiasts, with an extensive selection of teas from around the world.",
+            "categoryId":14,
+            "ratingCount": 88,
+            "rating": 4.7
+        },
+        {
+            "id": 62,
+            "name": "Nutrition Oasis",
+            "image": "https://thumbs.dreamstime.com/b/heart-shape-various-vegetables-fruits-healthy-food-concept-isolated-white-background-140287808.jpg",
+            "description": "Nutrition Oasis offers a wide range of nutritious dishes and beverages to keep you energized.",
+            "categoryId":13,
+            "ratingCount": 94,
+            "rating": 4.9
+        },
+        {
+            "id": 57,
+            "name": "Shawarma Delight",
+            "image": "https://i.insider.com/57b47a9cdb5ce950008b7370?width=889&format=jpeg",
+            "description": "Shawarma Delight serves mouthwatering Halal shawarma with a variety of flavors and sauces.",
+            "categoryId":12,
+            "ratingCount": 95,
+            "rating": 4.9
+        },
+        {
+            "id": 51,
+            "name": "Plant-Based Paradise",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc23ggR91jRUouvMyg0HQXsslGt7gVhAV_aA&usqp=CAU",
+            "description": "Plant-Based Paradise specializes in creative and delicious plant-based cuisine.",
+            "categoryId":11,
+            "ratingCount": 91,
+            "rating": 4.6
+        },
+        {
+            "id": 19,
+            "name": "Peking Palace",
+            "image": "https://media.istockphoto.com/id/483120255/photo/asian-oranage-chicken-with-green-onions.jpg?s=612x612&w=0&k=20&c=0T_g_J5OSnmCei1Slgr1128wzAhzceRvLjd94R3gkgs=",
+            "description": "Peking Palace is a Chinese culinary gem, known for its exquisite Peking duck and more.",
+            "categoryId":5,
+            "ratingCount": 74,
+            "rating": 4.7
+        },
+        {
+            "id": 14,
+            "name": "Steakhouse Deluxe",
+            "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/6/2022/03/03140502/hero3-1587x900.jpg",
+            "description": "Steakhouse Deluxe offers the finest cuts of meat and a premium dining experience for steak lovers.",
+            "categoryId":4,
+            "ratingCount": 95,
+            "rating": 4.8
+        }
+    ]
+}
