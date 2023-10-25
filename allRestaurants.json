@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Turk Fatih Tutak",
-            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lezzet.com.tr%2Flezzetten-haberler%2F2-michelin-yildizi-alan-restoran-turk-fatih-tutak&psig=AOvVaw0tujoD9H9RiDl5boC_0V5h&ust=1698352407560000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCIofGFkoIDFQAAAAAdAAAAABAX",
+            "image": "https://i.lezzet.com.tr/images-800x600/c18cee09-350d-4c2d-8cf3-2295ba1587a8-1c302ffc-fac0-4052-873f-a229e9ddce3d",
             "description":"Turkish chef Fatih Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. ",
             "categoryId":1,
             "ratingCount": 124,
@@ -75,7 +75,7 @@
         {
             "id": 9,
             "name": "Ristorante Italiano",
-            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tastingtable.com%2F752834%2F20-italian-dishes-you-need-to-try-at-least-once%2F&psig=AOvVaw2bVOpMscD7TlIhRWC1JzGx&ust=1698356537486000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODO16KVkoIDFQAAAAAdAAAAABAE",
+            "image": "https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/intro-1643403830.webp",
             "description": "Ristorante Italiano is your passport to Italy, offering a delightful array of Italian classics.",
             "categoryId":3,
             "ratingCount": 96,
@@ -129,7 +129,7 @@
         {
             "id": 15,
             "name": "BBQ Barn",
-            "image": "https://cdn.pixabay.com/photo/2015/06/30/19/56/food-826744_640.jpg",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/db/d2/13/bbq-barn.jpg",
             "description": "BBQ Barn is the ultimate destination for barbecue enthusiasts, with a mouthwatering selection of smoked meats.",
             "categoryId":4,
             "ratingCount": 88,
@@ -264,7 +264,7 @@
         {
             "id": 30,
             "name": "Tempura Delight",
-            "image": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?cs=srgb&dl=pexels-rajesh-tp-2098085.jpg&fm=jpg",
+            "image": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-30%20Must-Try-Japanese-Foods/Blog-page-156-30-Must-Try-Japanese-Foods?$poi$&w=1140&h=410&sm=c&fmt=auto",
             "description": "Tempura Delight serves light and crispy tempura dishes that will delight your taste buds.",
             "categoryId":7,
             "ratingCount": 94,
@@ -363,7 +363,7 @@
         {
             "id": 41,
             "name": "Gelato Joy",
-            "image": "https://images.pexels.com/photos/3026810/pexels-photo-3026810.jpeg?cs=srgb&dl=pexels-ella-olsson-3026810.jpg&fm=jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/CafeMia.jpg",
             "description": "Gelato Joy serves the creamiest and most delightful gelato flavors that will transport you to Italy.",
             "categoryId":9,
             "ratingCount": 94,
@@ -381,7 +381,7 @@
         {
             "id": 43,
             "name": "Fruit Paradise",
-            "image": "hhttps://hips.hearstapps.com/hmg-prod/images/cheesecake-cupcakes-1649185920.jpg",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/cheesecake-cupcakes-1649185920.jpg",
             "description": "Fruit Paradise is a healthy and refreshing destination for fruit-based desserts and smoothies.",
             "categoryId":9,
             "ratingCount": 88,
