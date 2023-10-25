@@ -1,661 +1,659 @@
-{
-    "data": [
-        {
-            "id": 1,
-            "name": "Turk Fatih Tutak",
-            "image": "https://i.lezzet.com.tr/images-800x600/c18cee09-350d-4c2d-8cf3-2295ba1587a8-1c302ffc-fac0-4052-873f-a229e9ddce3d",
-            "description":"Turkish chef Fatih Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. ",
-            "categoryId":1,
-            "ratingCount": 124,
-            "rating": 4.5
-        },
-        {
-            "id": 2,
-            "name": "7 Mehmet",
-            "image": "https://a.cdn-hotels.com/gdcs/production198/d1455/18acea99-7a13-481e-9f37-d8e4fe307a47.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
-            "description": "7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. ",
-            "categoryId":1,
-            "ratingCount": 89,
-            "rating": 4.9
-        },
-        {
-            "id":3,
-            "name": "Karaköy Lokantası",
-            "image":"https://media-cdn.tripadvisor.com/media/photo-s/1c/1f/e9/e7/photo2jpg.jpg",
-            "description":"",
-            "categoryId":1,
-            "ratingCount": 128,
-            "rating": 4.7
-        },
-        {
-            "id": 4,
-            "name": "Sri Lankan Spice",
-            "image":"https://media.cnn.com/api/v1/images/stellar/prod/141017144025-sri-lanka-food-1.jpg?q=w_1200,h_800,x_0,y_0,c_fill/h_618",
-            "description": "Sri Lankan Spice offers an authentic taste of Sri Lankan cuisine with a variety of aromatic curries and spices.",
-            "categoryId":2,
-            "ratingCount": 82,
-            "rating": 4.7
-        },
-        {
-            "id": 5,
-            "name": "Ceylon Delights",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/141017150059-sri-lanka-food-3.jpg?q=w_1200,h_800,x_0,y_0,c_fill/h_618",
-            "description": "Ceylon Delights brings the flavors of Ceylon to your plate with traditional Sri Lankan dishes and tropical delights.",
-            "categoryId":2,
-            "ratingCount": 76,
-            "rating": 4.6
-        },
-        {
-            "id": 6,
-            "name": "Spicy Island",
-            "image": "https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/l-intro-1643403830.jpg",
-            "description": "Spicy Island is your gateway to the spicy and flavorful world of Sri Lankan street food and delicacies.",
-            "categoryId":2,
-            "ratingCount": 91,
-            "rating": 4.8
-        },
-        {
-            "id": 7,
-            "name": "Tropical Tastes",
-            "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/c6/c8/23/mouthwatering-healthy.jpg",
-            "description": "Tropical Tastes offers a unique fusion of Sri Lankan and tropical cuisine, perfect for food enthusiasts.",
-            "categoryId":2,
-            "ratingCount": 68,
-            "rating": 4.5
-        },
-        {
-            "id": 8,
-            "name": "Island Flavors",
-            "image": "https://images.unsplash.com/photo-1613526949297-1aba25022d0c?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3JpJTIwbGFua2FuJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
-            "description": "Island Flavors is a delightful blend of Sri Lankan culinary heritage and island-inspired dishes.",
-            "categoryId":2,
-            "ratingCount": 79,
-            "rating": 4.7
-        },
-        {
-            "id": 9,
-            "name": "Ristorante Italiano",
-            "image": "https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/intro-1643403830.webp",
-            "description": "Ristorante Italiano is your passport to Italy, offering a delightful array of Italian classics.",
-            "categoryId":3,
-            "ratingCount": 96,
-            "rating": 4.6
-        },
-        {
-            "id": 10,
-            "name": "Mama Mia Trattoria",
-            "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/1/25/0/FN_getty-italian-traditions-pasta_s4x3.jpg.rend.hgtvcom.616.462.suffix/1453776834832.jpeg",
-            "description": "Mama Mia Trattoria serves authentic Italian dishes that will transport you to the heart of Italy.",
-            "categoryId":3,
-            "ratingCount": 85,
-            "rating": 4.7
-        },
-        {
-            "id": 11,
-            "name": "Toscana Ristorante",
-            "image": "https://www.foodrepublic.com/img/gallery/100-italian-fooddrink-words-and-phrases/l-intro-1684783348.jpg",
-            "description": "Toscana Ristorante offers the rich and flavorful tastes of Tuscany in every bite.",
-            "categoryId":3,
-            "ratingCount": 91,
-            "rating": 4.5
-        },
-        {
-            "id": 12,
-            "name": "Pizza Paradise",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/1200px-Pizza-3007395.jpg",
-            "description": "Pizza Paradise is a haven for pizza lovers, offering a wide selection of delicious pizzas.",
-            "categoryId":3,
-            "ratingCount": 77,
-            "rating": 4.8
-        },
-        {
-            "id": 13,
-            "name": "Bella Cucina",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/210311152505-04-tomato-italy-history-restricted.jpg?q=x_3,y_263,h_1516,w_2694,c_crop/h_720,w_1280",
-            "description": "Bella Cucina brings the essence of Italian home-cooking to your dining experience.",
-            "categoryId":3,
-            "ratingCount": 82,
-            "rating": 4.6
-        },
-        {
-            "id": 14,
-            "name": "Steakhouse Deluxe",
-            "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/6/2022/03/03140502/hero3-1587x900.jpg",
-            "description": "Steakhouse Deluxe offers the finest cuts of meat and a premium dining experience for steak lovers.",
-            "categoryId":4,
-            "ratingCount": 95,
-            "rating": 4.8
-        },
-        {
-            "id": 15,
-            "name": "BBQ Barn",
-            "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/db/d2/13/bbq-barn.jpg",
-            "description": "BBQ Barn is the ultimate destination for barbecue enthusiasts, with a mouthwatering selection of smoked meats.",
-            "categoryId":4,
-            "ratingCount": 88,
-            "rating": 4.7
-        },
-        {
-            "id": 16,
-            "name": "The Western Diner",
-            "image": "https://media-cdn.tripadvisor.com/media/photo-p/1c/e0/c3/d3/so-far-the-best-western.jpg",
-            "description": "The Western Diner serves classic American comfort food in a cozy and welcoming atmosphere.",
-            "categoryId":4,
-            "ratingCount": 82,
-            "rating": 4.6
-        },
-        {
-            "id": 17,
-            "name": "Burger Ranch",
-            "image": "https://www.foodnavigator-asia.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-asia.com/article/2018/10/24/consumption-of-western-food-can-raise-cancer-risks-in-arab-men-us-expert/8729268-1-eng-GB/Consumption-of-Western-food-can-raise-cancer-risks-in-Arab-men-US-expert.jpg",
-            "description": "Burger Ranch is a paradise for burger lovers, offering a wide variety of gourmet burgers.",
-            "categoryId":4,
-            "ratingCount": 90,
-            "rating": 4.9
-        },
-        {
-            "id": 18,
-            "name": "Tex-Mex Fiesta",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQINa-_s65QwctR8hytJtJzYrDDYLOiW4IfOA&usqp=CAU",
-            "description": "Tex-Mex Fiesta brings the flavors of Texas and Mexico together, serving delicious Tex-Mex cuisine.",
-            "categoryId":4,
-            "ratingCount": 75,
-            "rating": 4.5
-        },
-        {
-            "id": 19,
-            "name": "Peking Palace",
-            "image": "https://media.istockphoto.com/id/483120255/photo/asian-oranage-chicken-with-green-onions.jpg?s=612x612&w=0&k=20&c=0T_g_J5OSnmCei1Slgr1128wzAhzceRvLjd94R3gkgs=",
-            "description": "Peking Palace is a Chinese culinary gem, known for its exquisite Peking duck and more.",
-            "categoryId":5,
-            "ratingCount": 74,
-            "rating": 4.7
-        },
-        {
-            "id": 20,
-            "name": "Dragon Delights",
-            "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2hpbmVzZSUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
-            "description": "Dragon Delights offers a wide variety of Chinese dishes, from classic to modern interpretations.",
-            "categoryId":5,
-            "ratingCount": 83,
-            "rating": 4.6
-        },
-        {
-            "id": 21,
-            "name": "Great Wall Cuisine",
-            "image": "https://wallpapers.com/images/hd/chinese-food-pictures-283a542wre04dt2j.jpg",
-            "description": "Great Wall Cuisine brings the iconic flavors of the Great Wall to your plate, with a diverse menu.",
-            "categoryId":5,
-            "ratingCount": 76,
-            "rating": 4.8
-        },
-        {
-            "id": 22,
-            "name": "Wok Master",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/220921081550-05-chinese-foods-mapo-tofu.jpg?c=original",
-            "description": "Wok Master showcases the art of wok cooking with a selection of stir-fried and wok-tossed dishes.",
-            "categoryId":5,
-            "ratingCount": 89,
-            "rating": 4.9
-        },
-        {
-            "id": 23,
-            "name": "Golden Dragon Palace",
-            "image": "https://images.chinahighlights.com/allpicture/2021/12/71879439c9ef4d0da835efb6_cut_750x400_39.jpg",
-            "description": "Golden Dragon Palace offers a regal dining experience with a menu that celebrates Chinese culinary traditions.",
-            "categoryId":5,
-            "ratingCount": 81,
-            "rating": 4.7
-        },
-        {
-            "id": 24,
-            "name": "Tandoori Tastes",
-            "image": "https://sandinmysuitcase.com/wp-content/uploads/2021/01/Popular-Indian-Food-Dishes.jpg.webp",
-            "description": "Tandoori Tastes offers a mouthwatering selection of Indian tandoori and curry dishes.",
-            "categoryId":6,
-            "ratingCount": 102,
-            "rating": 4.7
-        },
-        {
-            "id": 25,
-            "name": "Curry House",
-            "image": "https://static.vecteezy.com/system/resources/previews/015/933/115/non_2x/chole-bhature-is-a-north-indian-food-dish-a-combination-of-chana-masala-and-bhatura-or-puri-free-photo.jpg",
-            "description": "Curry House serves a delightful array of curry dishes that capture the essence of Indian cuisine.",
-            "categoryId":6,
-            "ratingCount": 94,
-            "rating": 4.5
-        },
-        {
-            "id": 26,
-            "name": "Spice Garden",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/chicken-tikka-masala1-1663341991.jpg?crop=1xw:0.82801766437684xh;center,top&resize=1200:*",
-            "description": "Spice Garden is a paradise for spice lovers, offering a variety of aromatic Indian dishes.",
-            "categoryId":6,
-            "ratingCount": 87,
-            "rating": 4.6
-        },
-        {
-            "id": 27,
-            "name": "Mango Masala",
-            "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg",
-            "description": "Mango Masala brings the sweetness of mango and the spiciness of Indian cuisine together for a unique dining experience.",
-            "categoryId":6,
-            "ratingCount": 96,
-            "rating": 4.8
-        },
-        {
-            "id": 28,
-            "name": "Royal Flavors",
-            "image": "https://www.rewardsnetwork.com/wp-content/uploads/2016/12/IndianFood_Main.jpg",
-            "description": "Royal Flavors offers a regal dining experience with a menu that celebrates the grandeur of Indian cuisine.",
-            "categoryId":6,
-            "ratingCount": 90,
-            "rating": 4.7
-        },
-        {
-            "id": 29,
-            "name": "Sushi Zen",
-            "image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
-            "description": "Sushi Zen offers a masterful selection of fresh sushi and sashimi, prepared by skilled sushi chefs.",
-            "categoryId":7,
-            "ratingCount": 98,
-            "rating": 4.9
-        },
-        {
-            "id": 30,
-            "name": "Tempura Delight",
-            "image": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-30%20Must-Try-Japanese-Foods/Blog-page-156-30-Must-Try-Japanese-Foods?$poi$&w=1140&h=410&sm=c&fmt=auto",
-            "description": "Tempura Delight serves light and crispy tempura dishes that will delight your taste buds.",
-            "categoryId":7,
-            "ratingCount": 94,
-            "rating": 4.7
-        },
-        {
-            "id": 31,
-            "name": "Ramen Master",
-            "image": "https://cdn-fegfh.nitrocdn.com/bJwdeZsObtsROHbGJsKNNvJfYjZSwUGF/assets/images/optimized/rev-ac7ac7d/www.kobeteppanyaki.com.au/wp-content/uploads/2020/03/shutterstock_304585997.jpg",
-            "description": "Ramen Master brings the authentic flavors of Japanese ramen to your bowl with a variety of broths and toppings.",
-            "categoryId":7,
-            "ratingCount": 86,
-            "rating": 4.6
-        },
-        {
-            "id": 32,
-            "name": "Teppanyaki Grill",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/160823141245-japan-food6-hiroshima-ramen-hiroshima-prefecturejnto.jpg?q=w_1600,h_900,x_0,y_0,c_fill/h_618",
-            "description": "Teppanyaki Grill is a grill sensation, where skilled chefs prepare your meal right in front of you.",
-            "categoryId":7,
-            "ratingCount": 92,
-            "rating": 4.8
-        },
-        {
-            "id": 33,
-            "name": "Izakaya Delights",
-            "image": "https://www.cktravels.com/wp-content/uploads/2020/12/what-to-eat-in-japan.jpg",
-            "description": "Izakaya Delights offers a casual yet delicious dining experience with a variety of small Japanese dishes and drinks.",
-            "categoryId":7,
-            "ratingCount": 88,
-            "rating": 4.7
-        }, 
-        {
-            "id": 34,
-            "name": "Seoul Delights",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/181114130138-korean-food-2620014201204004k-jeonju-bibimbap.jpg?q=w_1600,h_900,x_0,y_0,c_fill/h_618",
-            "description": "Seoul Delights offers a variety of traditional Korean dishes with a modern twist.",
-            "categoryId":8,
-            "ratingCount": 92,
-            "rating": 4.7
-        },
-        {
-            "id": 35,
-            "name": "Kimchi Kitchen",
-            "image": "https://images.yummy.ph/yummy/uploads/2022/04/koreanfoodramyunwithtteokbokki.jpg",
-            "description": "Kimchi Kitchen is dedicated to the art of kimchi and Korean comfort food.",
-            "categoryId":8,
-            "ratingCount": 86,
-            "rating": 4.6
-        },
-        {
-            "id": 36,
-            "name": "Bibimbap Bistro",
-            "image": "https://a.cdn-hotels.com/gdcs/production50/d1916/51d76cc9-cbe8-4572-a671-545f882f1847.jpg?impolicy=fcrop&w=800&h=533&q=medium",
-            "description": "Bibimbap Bistro serves the beloved Korean rice dish with a variety of toppings and sauces.",
-            "categoryId":8,
-            "ratingCount": 94,
-            "rating": 4.8
-        },
-        {
-            "id": 37,
-            "name": "Gochujang Grill",
-            "image": "https://img.freepik.com/free-photo/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food_1150-43003.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697328000&semt=ais",
-            "description": "Gochujang Grill specializes in dishes featuring the spicy and savory flavors of gochujang sauce.",
-            "categoryId":8,
-            "ratingCount": 89,
-            "rating": 4.9
-        },
-        {
-            "id": 38,
-            "name": "K-Town Eats",
-            "image": "https://www.tastingtable.com/img/gallery/26-korean-dishes-everyone-need-to-try-once/l-intro-1674489152.jpg",
-            "description": "K-Town Eats offers a diverse menu of Korean street food and classic dishes.",
-            "categoryId":8,
-            "ratingCount": 90,
-            "rating": 4.7
-        },
-        {
-            "id": 39,
-            "name": "Sweet Bliss Cafe",
-            "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/04/06/FNK_Chocolate-Mousse_H_v2_4x3.jpg.rend.hgtvcom.616.462.suffix/1586200107816.jpeg",
-            "description": "Sweet Bliss Cafe is a haven for dessert lovers, offering a delightful selection of cakes, pastries, and ice creams.",
-            "categoryId":9,
-            "ratingCount": 96,
-            "rating": 4.8
-        },
-        {
-            "id": 40,
-            "name": "ChocoDelights",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbDKPR8m8ISPOE0APfWpMJUrfbXybLnGYVsg&usqp=CAU",
-            "description": "ChocoDelights is dedicated to all things chocolate, from rich hot chocolates to decadent truffles.",
-            "categoryId":9,
-            "ratingCount": 89,
-            "rating": 4.7
-        },
-        {
-            "id": 41,
-            "name": "Gelato Joy",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/CafeMia.jpg",
-            "description": "Gelato Joy serves the creamiest and most delightful gelato flavors that will transport you to Italy.",
-            "categoryId":9,
-            "ratingCount": 94,
-            "rating": 4.9
-        },
-        {
-            "id": 42,
-            "name": "Cupcake Heaven",
-            "image": "https://images.immediate.co.uk/production/volatile/sites/2/2022/04/Tiramisu-e2a657d.jpg?quality=90&resize=556,505",
-            "description": "Cupcake Heaven offers a whimsical assortment of cupcakes in a charming and colorful setting.",
-            "categoryId":9,
-            "ratingCount": 92,
-            "rating": 4.6
-        },
-        {
-            "id": 43,
-            "name": "Fruit Paradise",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/cheesecake-cupcakes-1649185920.jpg",
-            "description": "Fruit Paradise is a healthy and refreshing destination for fruit-based desserts and smoothies.",
-            "categoryId":9,
-            "ratingCount": 88,
-            "rating": 4.5
-        },
-        {
-            "id": 44,
-            "name": "Nasi Lemak Delight",
-            "image": "https://media.timeout.com/images/105181416/image.jpg",
-            "description": "Nasi Lemak Delight serves the classic Malaysian dish, Nasi Lemak, with a variety of delicious toppings.",
-            "categoryId":10,
-            "ratingCount": 97,
-            "rating": 4.8
-        },
-        {
-            "id": 45,
-            "name": "Rendang Royale",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/130614114257-malaysia-food.jpg?q=w_1200,h_800,x_0,y_0,c_fill",
-            "description": "Rendang Royale offers a regal experience with its tender and aromatic rendang dishes.",
-            "categoryId":10,
-            "ratingCount": 93,
-            "rating": 4.7
-        },
-        {
-            "id": 46,
-            "name": "Satay Street",
-            "image": "https://cdn-v2.theculturetrip.com/1200x900/wp-content/uploads/2018/08/shutterstock_648976399.jpg",
-            "description": "Satay Street is your go-to destination for delicious and skewered satay dishes.",
-            "categoryId":10,
-            "ratingCount": 91,
-            "rating": 4.6
-        },
-        {
-            "id": 47,
-            "name": "Laksa Haven",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4Au-u_mtnCggTTymvP1KWsSmvoNC3k6ShQ&usqp=CAU",
-            "description": "Laksa Haven specializes in a variety of laksa dishes, from creamy to spicy broths.",
-            "categoryId":10,
-            "ratingCount": 95,
-            "rating": 4.9
-        },
-        {
-            "id": 48,
-            "name": "Malay Bazaar",
-            "image": "https://www.gourmandtrotter.com/wp-content/uploads/2020/01/Food-from-Malaysia-680x453.jpg",
-            "description": "Malay Bazaar offers a diverse menu of Malay street food and traditional specialties.",
-            "categoryId":10,
-            "ratingCount": 88,
-            "rating": 4.5
-        },
-        {
-            "id": 49,
-            "name": "Green Garden Cafe",
-            "image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/vegetarian-diet-plan-1296x728-feature.jpg",
-            "description": "Green Garden Cafe is a vegetarian haven, serving delicious and healthy plant-based dishes.",
-            "categoryId":11,
-            "ratingCount": 98,
-            "rating": 4.9
-        },
-        {
-            "id": 50,
-            "name": "Veggie Delights",
-            "image": "https://images.unsplash.com/photo-1598449426314-8b02525e8733?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dmVnZXRhcmlhbiUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
-            "description": "Veggie Delights offers a diverse menu of vegetarian dishes, from salads to hearty entrees.",
-            "categoryId":11,
-            "ratingCount": 94,
-            "rating": 4.7
-        },
-        {
-            "id": 51,
-            "name": "Plant-Based Paradise",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc23ggR91jRUouvMyg0HQXsslGt7gVhAV_aA&usqp=CAU",
-            "description": "Plant-Based Paradise specializes in creative and delicious plant-based cuisine.",
-            "categoryId":11,
-            "ratingCount": 91,
-            "rating": 4.6
-        },
-        {
-            "id": 52,
-            "name": "The Veggie Bistro",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pxRLDF-ZPj553fEUrBlbNNplANBT_jrfdw&usqp=CAU",
-            "description": "The Veggie Bistro offers a variety of vegetarian dishes with a focus on fresh and locally sourced ingredients.",
-            "categoryId":11,
-            "ratingCount": 96,
-            "rating": 4.8
-        },
-        {
-            "id": 53,
-            "name": "Herb Haven",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-chickpea-salad-smashed-cucumbers-1656600167.jpeg",
-            "description": "Herb Haven is a herb-infused vegetarian paradise, offering a unique blend of flavors.",
-            "categoryId":11,
-            "ratingCount": 89,
-            "rating": 4.5
-        },
-        {
-            "id": 54,
-            "name": "Sultan's Feast",
-            "image": "https://tb-static.uber.com/prod/image-proc/processed_images/6f741a0576d0969bd997b7ed5691e88c/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg",
-            "description": "Sultan's Feast offers a regal dining experience with a menu of exquisite Halal dishes.",
-            "categoryId":12,
-            "ratingCount": 97,
-            "rating": 4.8
-        },
-        {
-            "id": 55,
-            "name": "Biryani Delights",
-            "image": "https://assets3.thrillist.com/v1/image/3080303/792x587/scale;webp=auto;jpeg_quality=60;progressive.jpg",
-            "description": "Biryani Delights serves a variety of aromatic biryani dishes made with Halal ingredients.",
-            "categoryId":12,
-            "ratingCount": 93,
-            "rating": 4.7
-        },
-        {
-            "id": 56,
-            "name": "Kebab Kingdom",
-            "image": "https://www.paturkey.com/wp-content/uploads/2022/11/halal.jpeg",
-            "description": "Kebab Kingdom offers a royal selection of Halal kebabs and grilled specialties.",
-            "categoryId":12,
-            "ratingCount": 91,
-            "rating": 4.6
-        },
-        {
-            "id": 57,
-            "name": "Shawarma Delight",
-            "image": "https://i.insider.com/57b47a9cdb5ce950008b7370?width=889&format=jpeg",
-            "description": "Shawarma Delight serves mouthwatering Halal shawarma with a variety of flavors and sauces.",
-            "categoryId":12,
-            "ratingCount": 95,
-            "rating": 4.9
-        },
-        {
-            "id": 58,
-            "name": "Halal Fusion",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7NhaCuOChgLPT7Oq2J6UIAim3n_-l1Td7Tg&usqp=CAU",
-            "description": "Halal Fusion combines global flavors with Halal ingredients, creating a unique dining experience.",
-            "categoryId":12,
-            "ratingCount": 88,
-            "rating": 4.5
-        },
-        {
-            "id": 59,
-            "name": "Fresh Greens Cafe",
-            "image": "https://www.eatingwell.com/thmb/m5xUzIOmhWSoXZnY-oZcO9SdArQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/article_291139_the-top-10-healthiest-foods-for-kids_-02-4b745e57928c4786a61b47d8ba920058.jpg",
-            "description": "Fresh Greens Cafe offers a menu filled with fresh and healthy salads, wraps, and smoothies.",
-            "categoryId":13,
-            "ratingCount": 95,
-            "rating": 4.8
-        },
-        {
-            "id": 60,
-            "name": "Fit Bites Express",
-            "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/healthy-eating-ingredients-732x549-thumbnail.jpg",
-            "description": "Fit Bites Express is your destination for nutritious and delicious meal options for a healthier lifestyle.",
-            "categoryId":13,
-            "ratingCount": 90,
-            "rating": 4.7
-        },
-        {
-            "id": 61,
-            "name": "Guilt-Free Delights",
-            "image": "https://img.freepik.com/free-photo/buddha-bowl-dish-with-vegetables-legumes-top-view_1150-42589.jpg",
-            "description": "Guilt-Free Delights specializes in satisfying your cravings with wholesome yet delicious options.",
-            "categoryId":13,
-            "ratingCount": 88,
-            "rating": 4.6
-        },
-        {
-            "id": 62,
-            "name": "Nutrition Oasis",
-            "image": "https://thumbs.dreamstime.com/b/heart-shape-various-vegetables-fruits-healthy-food-concept-isolated-white-background-140287808.jpg",
-            "description": "Nutrition Oasis offers a wide range of nutritious dishes and beverages to keep you energized.",
-            "categoryId":13,
-            "ratingCount": 94,
-            "rating": 4.9
-        },
-        {
-            "id": 63,
-            "name": "Wellness Haven",
-            "image": "https://www.ucsfhealth.org/-/media/project/ucsf/ucsf-health/education/hero/top-ten-foods-for-health-2x.jpg",
-            "description": "Wellness Haven is dedicated to promoting a balanced and healthy lifestyle through its menu.",
-            "categoryId":13,
-            "ratingCount": 91,
-            "rating": 4.5
-        },
-        {
-            "id": 64,
-            "name": "Cafe Latte Bliss",
-            "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/5/29/0/FN_Cold-Drinks-Opener_s4x3.jpg.rend.hgtvcom.616.462.suffix/1401377469671.jpeg",
-            "description": "Cafe Latte Bliss offers a delightful array of coffee, lattes, and espresso beverages.",
-            "categoryId":14,
-            "ratingCount": 92,
-            "rating": 4.8
-        },
-        {
-            "id": 65,
-            "name": "Tea Haven",
-            "image": "https://i.pinimg.com/1200x/aa/1e/c9/aa1ec920c3cd1fe217777103b7b9f0e7.jpg",
-            "description": "Tea Haven is a paradise for tea enthusiasts, with an extensive selection of teas from around the world.",
-            "categoryId":14,
-            "ratingCount": 88,
-            "rating": 4.7
-        },
-        {
-            "id": 66,
-            "name": "Fresh Juice Bar",
-            "image": "https://media.healthyfood.com/wp-content/uploads/2017/03/How-to-choose-fruit-juices-and-drinks-500x500.jpg",
-            "description": "Fresh Juice Bar offers a wide variety of freshly squeezed juices, smoothies, and healthy beverages.",
-            "categoryId":14,
-            "ratingCount": 90,
-            "rating": 4.6
-        },
-        {
-            "id": 67,
-            "name": "Craft Beer House",
-            "image": "https://thumbs.dreamstime.com/b/food-drink-fried-fish-beer-table-beer-restaurant-high-resolution-food-drink-meat-rolls-beer-table-118329717.jpg",
-            "description": "Craft Beer House is your destination for a diverse selection of craft beers and brews.",
-            "categoryId":14,
-            "ratingCount": 94,
-            "rating": 4.9
-        },
-        {
-            "id": 68,
-            "name": "Wine Cellar Delights",
-            "image": "https://st2.depositphotos.com/1177973/8430/i/450/depositphotos_84309564-stock-photo-still-life-with-various-types.jpg",
-            "description": "Wine Cellar Delights offers an extensive wine list, perfect for wine connoisseurs and enthusiasts.",
-            "categoryId":14,
-            "ratingCount": 91,
-            "rating": 4.5
-        },
-        {
-            "id": 69,
-            "name": "Sunrise Cafe",
-            "image": "https://food.fnr.sndimg.com/content/dam/images/food/plus/fullset/2020/04/30/0/FNK_The-Best-Cheddar-And-Herb-Chaffle_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1588257306685.jpeg",
-            "description": "Sunrise Cafe offers a sunny breakfast and brunch menu that brightens your day.",
-            "categoryId":15,
-            "ratingCount": 92,
-            "rating": 4.8
-        },
-        {
-            "id": 70,
-            "name": "Pancake Paradise",
-            "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/09/Homemade_Pancakes_With_Chocolate_Chips.png",
-            "description": "Pancake Paradise is known for its fluffy and delectable pancake creations.",
-            "categoryId":15,
-            "ratingCount": 89,
-            "rating": 4.7
-        },
-        {
-            "id": 71,
-            "name": "Eggcellent Delights",
-            "image": "https://customkeepsakes.ie/wp-content/uploads/2023/06/BBE001-Eggcellent-Granny.jpg",
-            "description": "Eggcellent Delights serves a variety of egg-based dishes to satisfy breakfast cravings.",
-            "categoryId":15,
-            "ratingCount": 90,
-            "rating": 4.6
-        },
-        {
-            "id": 72,
-            "name": "Healthy Start Cafe",
-            "image": "https://media.self.com/photos/5e5fe10c1a8b3a0008d5c5cb/1:1/w_1600%2Cc_limit/cottage-cheese-rainbow-bowl.jpg",
-            "description": "Healthy Start Cafe provides nutritious breakfast options to kickstart your day.",
-            "categoryId":15,
-            "ratingCount": 94,
-            "rating": 4.9
-        },
-        {
-            "id": 73,
-            "name": "Classic Breakfast House",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GfvbR5iDsuXtCKtaCeiJkQVyb15UBvgQwA&usqp=CAU",
-            "description": "Classic Breakfast House offers traditional and classic breakfast favorites for all to enjoy.",
-            "categoryId":15,
-            "ratingCount": 91,
-            "rating": 4.5
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "name": "Turk Fatih Tutak",
+        "image": "https://i.lezzet.com.tr/images-800x600/c18cee09-350d-4c2d-8cf3-2295ba1587a8-1c302ffc-fac0-4052-873f-a229e9ddce3d",
+        "description": "Turkish chef Fatih Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. ",
+        "categoryId": 1,
+        "ratingCount": 124,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "7 Mehmet",
+        "image": "https://a.cdn-hotels.com/gdcs/production198/d1455/18acea99-7a13-481e-9f37-d8e4fe307a47.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+        "description": "7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. ",
+        "categoryId": 1,
+        "ratingCount": 89,
+        "rating": 4.9
+    },
+    {
+        "id": 3,
+        "name": "Karaköy Lokantası",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/1f/e9/e7/photo2jpg.jpg",
+        "description": "",
+        "categoryId": 1,
+        "ratingCount": 128,
+        "rating": 4.7
+    },
+    {
+        "id": 4,
+        "name": "Sri Lankan Spice",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/141017144025-sri-lanka-food-1.jpg?q=w_1200,h_800,x_0,y_0,c_fill/h_618",
+        "description": "Sri Lankan Spice offers an authentic taste of Sri Lankan cuisine with a variety of aromatic curries and spices.",
+        "categoryId": 2,
+        "ratingCount": 82,
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "name": "Ceylon Delights",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/141017150059-sri-lanka-food-3.jpg?q=w_1200,h_800,x_0,y_0,c_fill/h_618",
+        "description": "Ceylon Delights brings the flavors of Ceylon to your plate with traditional Sri Lankan dishes and tropical delights.",
+        "categoryId": 2,
+        "ratingCount": 76,
+        "rating": 4.6
+    },
+    {
+        "id": 6,
+        "name": "Spicy Island",
+        "image": "https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/l-intro-1643403830.jpg",
+        "description": "Spicy Island is your gateway to the spicy and flavorful world of Sri Lankan street food and delicacies.",
+        "categoryId": 2,
+        "ratingCount": 91,
+        "rating": 4.8
+    },
+    {
+        "id": 7,
+        "name": "Tropical Tastes",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/c6/c8/23/mouthwatering-healthy.jpg",
+        "description": "Tropical Tastes offers a unique fusion of Sri Lankan and tropical cuisine, perfect for food enthusiasts.",
+        "categoryId": 2,
+        "ratingCount": 68,
+        "rating": 4.5
+    },
+    {
+        "id": 8,
+        "name": "Island Flavors",
+        "image": "https://images.unsplash.com/photo-1613526949297-1aba25022d0c?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3JpJTIwbGFua2FuJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Island Flavors is a delightful blend of Sri Lankan culinary heritage and island-inspired dishes.",
+        "categoryId": 2,
+        "ratingCount": 79,
+        "rating": 4.7
+    },
+    {
+        "id": 9,
+        "name": "Ristorante Italiano",
+        "image": "https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/intro-1643403830.webp",
+        "description": "Ristorante Italiano is your passport to Italy, offering a delightful array of Italian classics.",
+        "categoryId": 3,
+        "ratingCount": 96,
+        "rating": 4.6
+    },
+    {
+        "id": 10,
+        "name": "Mama Mia Trattoria",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/1/25/0/FN_getty-italian-traditions-pasta_s4x3.jpg.rend.hgtvcom.616.462.suffix/1453776834832.jpeg",
+        "description": "Mama Mia Trattoria serves authentic Italian dishes that will transport you to the heart of Italy.",
+        "categoryId": 3,
+        "ratingCount": 85,
+        "rating": 4.7
+    },
+    {
+        "id": 11,
+        "name": "Toscana Ristorante",
+        "image": "https://www.foodrepublic.com/img/gallery/100-italian-fooddrink-words-and-phrases/l-intro-1684783348.jpg",
+        "description": "Toscana Ristorante offers the rich and flavorful tastes of Tuscany in every bite.",
+        "categoryId": 3,
+        "ratingCount": 91,
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "name": "Pizza Paradise",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/1200px-Pizza-3007395.jpg",
+        "description": "Pizza Paradise is a haven for pizza lovers, offering a wide selection of delicious pizzas.",
+        "categoryId": 3,
+        "ratingCount": 77,
+        "rating": 4.8
+    },
+    {
+        "id": 13,
+        "name": "Bella Cucina",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/210311152505-04-tomato-italy-history-restricted.jpg?q=x_3,y_263,h_1516,w_2694,c_crop/h_720,w_1280",
+        "description": "Bella Cucina brings the essence of Italian home-cooking to your dining experience.",
+        "categoryId": 3,
+        "ratingCount": 82,
+        "rating": 4.6
+    },
+    {
+        "id": 14,
+        "name": "Steakhouse Deluxe",
+        "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/6/2022/03/03140502/hero3-1587x900.jpg",
+        "description": "Steakhouse Deluxe offers the finest cuts of meat and a premium dining experience for steak lovers.",
+        "categoryId": 4,
+        "ratingCount": 95,
+        "rating": 4.8
+    },
+    {
+        "id": 15,
+        "name": "BBQ Barn",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/db/d2/13/bbq-barn.jpg",
+        "description": "BBQ Barn is the ultimate destination for barbecue enthusiasts, with a mouthwatering selection of smoked meats.",
+        "categoryId": 4,
+        "ratingCount": 88,
+        "rating": 4.7
+    },
+    {
+        "id": 16,
+        "name": "The Western Diner",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-p/1c/e0/c3/d3/so-far-the-best-western.jpg",
+        "description": "The Western Diner serves classic American comfort food in a cozy and welcoming atmosphere.",
+        "categoryId": 4,
+        "ratingCount": 82,
+        "rating": 4.6
+    },
+    {
+        "id": 17,
+        "name": "Burger Ranch",
+        "image": "https://www.foodnavigator-asia.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-asia.com/article/2018/10/24/consumption-of-western-food-can-raise-cancer-risks-in-arab-men-us-expert/8729268-1-eng-GB/Consumption-of-Western-food-can-raise-cancer-risks-in-Arab-men-US-expert.jpg",
+        "description": "Burger Ranch is a paradise for burger lovers, offering a wide variety of gourmet burgers.",
+        "categoryId": 4,
+        "ratingCount": 90,
+        "rating": 4.9
+    },
+    {
+        "id": 18,
+        "name": "Tex-Mex Fiesta",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQINa-_s65QwctR8hytJtJzYrDDYLOiW4IfOA&usqp=CAU",
+        "description": "Tex-Mex Fiesta brings the flavors of Texas and Mexico together, serving delicious Tex-Mex cuisine.",
+        "categoryId": 4,
+        "ratingCount": 75,
+        "rating": 4.5
+    },
+    {
+        "id": 19,
+        "name": "Peking Palace",
+        "image": "https://media.istockphoto.com/id/483120255/photo/asian-oranage-chicken-with-green-onions.jpg?s=612x612&w=0&k=20&c=0T_g_J5OSnmCei1Slgr1128wzAhzceRvLjd94R3gkgs=",
+        "description": "Peking Palace is a Chinese culinary gem, known for its exquisite Peking duck and more.",
+        "categoryId": 5,
+        "ratingCount": 74,
+        "rating": 4.7
+    },
+    {
+        "id": 20,
+        "name": "Dragon Delights",
+        "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2hpbmVzZSUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+        "description": "Dragon Delights offers a wide variety of Chinese dishes, from classic to modern interpretations.",
+        "categoryId": 5,
+        "ratingCount": 83,
+        "rating": 4.6
+    },
+    {
+        "id": 21,
+        "name": "Great Wall Cuisine",
+        "image": "https://wallpapers.com/images/hd/chinese-food-pictures-283a542wre04dt2j.jpg",
+        "description": "Great Wall Cuisine brings the iconic flavors of the Great Wall to your plate, with a diverse menu.",
+        "categoryId": 5,
+        "ratingCount": 76,
+        "rating": 4.8
+    },
+    {
+        "id": 22,
+        "name": "Wok Master",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220921081550-05-chinese-foods-mapo-tofu.jpg?c=original",
+        "description": "Wok Master showcases the art of wok cooking with a selection of stir-fried and wok-tossed dishes.",
+        "categoryId": 5,
+        "ratingCount": 89,
+        "rating": 4.9
+    },
+    {
+        "id": 23,
+        "name": "Golden Dragon Palace",
+        "image": "https://images.chinahighlights.com/allpicture/2021/12/71879439c9ef4d0da835efb6_cut_750x400_39.jpg",
+        "description": "Golden Dragon Palace offers a regal dining experience with a menu that celebrates Chinese culinary traditions.",
+        "categoryId": 5,
+        "ratingCount": 81,
+        "rating": 4.7
+    },
+    {
+        "id": 24,
+        "name": "Tandoori Tastes",
+        "image": "https://sandinmysuitcase.com/wp-content/uploads/2021/01/Popular-Indian-Food-Dishes.jpg.webp",
+        "description": "Tandoori Tastes offers a mouthwatering selection of Indian tandoori and curry dishes.",
+        "categoryId": 6,
+        "ratingCount": 102,
+        "rating": 4.7
+    },
+    {
+        "id": 25,
+        "name": "Curry House",
+        "image": "https://static.vecteezy.com/system/resources/previews/015/933/115/non_2x/chole-bhature-is-a-north-indian-food-dish-a-combination-of-chana-masala-and-bhatura-or-puri-free-photo.jpg",
+        "description": "Curry House serves a delightful array of curry dishes that capture the essence of Indian cuisine.",
+        "categoryId": 6,
+        "ratingCount": 94,
+        "rating": 4.5
+    },
+    {
+        "id": 26,
+        "name": "Spice Garden",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/chicken-tikka-masala1-1663341991.jpg?crop=1xw:0.82801766437684xh;center,top&resize=1200:*",
+        "description": "Spice Garden is a paradise for spice lovers, offering a variety of aromatic Indian dishes.",
+        "categoryId": 6,
+        "ratingCount": 87,
+        "rating": 4.6
+    },
+    {
+        "id": 27,
+        "name": "Mango Masala",
+        "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg",
+        "description": "Mango Masala brings the sweetness of mango and the spiciness of Indian cuisine together for a unique dining experience.",
+        "categoryId": 6,
+        "ratingCount": 96,
+        "rating": 4.8
+    },
+    {
+        "id": 28,
+        "name": "Royal Flavors",
+        "image": "https://www.rewardsnetwork.com/wp-content/uploads/2016/12/IndianFood_Main.jpg",
+        "description": "Royal Flavors offers a regal dining experience with a menu that celebrates the grandeur of Indian cuisine.",
+        "categoryId": 6,
+        "ratingCount": 90,
+        "rating": 4.7
+    },
+    {
+        "id": 29,
+        "name": "Sushi Zen",
+        "image": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg",
+        "description": "Sushi Zen offers a masterful selection of fresh sushi and sashimi, prepared by skilled sushi chefs.",
+        "categoryId": 7,
+        "ratingCount": 98,
+        "rating": 4.9
+    },
+    {
+        "id": 30,
+        "name": "Tempura Delight",
+        "image": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-30%20Must-Try-Japanese-Foods/Blog-page-156-30-Must-Try-Japanese-Foods?$poi$&w=1140&h=410&sm=c&fmt=auto",
+        "description": "Tempura Delight serves light and crispy tempura dishes that will delight your taste buds.",
+        "categoryId": 7,
+        "ratingCount": 94,
+        "rating": 4.7
+    },
+    {
+        "id": 31,
+        "name": "Ramen Master",
+        "image": "https://cdn-fegfh.nitrocdn.com/bJwdeZsObtsROHbGJsKNNvJfYjZSwUGF/assets/images/optimized/rev-ac7ac7d/www.kobeteppanyaki.com.au/wp-content/uploads/2020/03/shutterstock_304585997.jpg",
+        "description": "Ramen Master brings the authentic flavors of Japanese ramen to your bowl with a variety of broths and toppings.",
+        "categoryId": 7,
+        "ratingCount": 86,
+        "rating": 4.6
+    },
+    {
+        "id": 32,
+        "name": "Teppanyaki Grill",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/160823141245-japan-food6-hiroshima-ramen-hiroshima-prefecturejnto.jpg?q=w_1600,h_900,x_0,y_0,c_fill/h_618",
+        "description": "Teppanyaki Grill is a grill sensation, where skilled chefs prepare your meal right in front of you.",
+        "categoryId": 7,
+        "ratingCount": 92,
+        "rating": 4.8
+    },
+    {
+        "id": 33,
+        "name": "Izakaya Delights",
+        "image": "https://www.cktravels.com/wp-content/uploads/2020/12/what-to-eat-in-japan.jpg",
+        "description": "Izakaya Delights offers a casual yet delicious dining experience with a variety of small Japanese dishes and drinks.",
+        "categoryId": 7,
+        "ratingCount": 88,
+        "rating": 4.7
+    },
+    {
+        "id": 34,
+        "name": "Seoul Delights",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/181114130138-korean-food-2620014201204004k-jeonju-bibimbap.jpg?q=w_1600,h_900,x_0,y_0,c_fill/h_618",
+        "description": "Seoul Delights offers a variety of traditional Korean dishes with a modern twist.",
+        "categoryId": 8,
+        "ratingCount": 92,
+        "rating": 4.7
+    },
+    {
+        "id": 35,
+        "name": "Kimchi Kitchen",
+        "image": "https://images.yummy.ph/yummy/uploads/2022/04/koreanfoodramyunwithtteokbokki.jpg",
+        "description": "Kimchi Kitchen is dedicated to the art of kimchi and Korean comfort food.",
+        "categoryId": 8,
+        "ratingCount": 86,
+        "rating": 4.6
+    },
+    {
+        "id": 36,
+        "name": "Bibimbap Bistro",
+        "image": "https://a.cdn-hotels.com/gdcs/production50/d1916/51d76cc9-cbe8-4572-a671-545f882f1847.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "description": "Bibimbap Bistro serves the beloved Korean rice dish with a variety of toppings and sauces.",
+        "categoryId": 8,
+        "ratingCount": 94,
+        "rating": 4.8
+    },
+    {
+        "id": 37,
+        "name": "Gochujang Grill",
+        "image": "https://img.freepik.com/free-photo/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food_1150-43003.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697328000&semt=ais",
+        "description": "Gochujang Grill specializes in dishes featuring the spicy and savory flavors of gochujang sauce.",
+        "categoryId": 8,
+        "ratingCount": 89,
+        "rating": 4.9
+    },
+    {
+        "id": 38,
+        "name": "K-Town Eats",
+        "image": "https://www.tastingtable.com/img/gallery/26-korean-dishes-everyone-need-to-try-once/l-intro-1674489152.jpg",
+        "description": "K-Town Eats offers a diverse menu of Korean street food and classic dishes.",
+        "categoryId": 8,
+        "ratingCount": 90,
+        "rating": 4.7
+    },
+    {
+        "id": 39,
+        "name": "Sweet Bliss Cafe",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/04/06/FNK_Chocolate-Mousse_H_v2_4x3.jpg.rend.hgtvcom.616.462.suffix/1586200107816.jpeg",
+        "description": "Sweet Bliss Cafe is a haven for dessert lovers, offering a delightful selection of cakes, pastries, and ice creams.",
+        "categoryId": 9,
+        "ratingCount": 96,
+        "rating": 4.8
+    },
+    {
+        "id": 40,
+        "name": "ChocoDelights",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbDKPR8m8ISPOE0APfWpMJUrfbXybLnGYVsg&usqp=CAU",
+        "description": "ChocoDelights is dedicated to all things chocolate, from rich hot chocolates to decadent truffles.",
+        "categoryId": 9,
+        "ratingCount": 89,
+        "rating": 4.7
+    },
+    {
+        "id": 41,
+        "name": "Gelato Joy",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/CafeMia.jpg",
+        "description": "Gelato Joy serves the creamiest and most delightful gelato flavors that will transport you to Italy.",
+        "categoryId": 9,
+        "ratingCount": 94,
+        "rating": 4.9
+    },
+    {
+        "id": 42,
+        "name": "Cupcake Heaven",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/2/2022/04/Tiramisu-e2a657d.jpg?quality=90&resize=556,505",
+        "description": "Cupcake Heaven offers a whimsical assortment of cupcakes in a charming and colorful setting.",
+        "categoryId": 9,
+        "ratingCount": 92,
+        "rating": 4.6
+    },
+    {
+        "id": 43,
+        "name": "Fruit Paradise",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/cheesecake-cupcakes-1649185920.jpg",
+        "description": "Fruit Paradise is a healthy and refreshing destination for fruit-based desserts and smoothies.",
+        "categoryId": 9,
+        "ratingCount": 88,
+        "rating": 4.5
+    },
+    {
+        "id": 44,
+        "name": "Nasi Lemak Delight",
+        "image": "https://media.timeout.com/images/105181416/image.jpg",
+        "description": "Nasi Lemak Delight serves the classic Malaysian dish, Nasi Lemak, with a variety of delicious toppings.",
+        "categoryId": 10,
+        "ratingCount": 97,
+        "rating": 4.8
+    },
+    {
+        "id": 45,
+        "name": "Rendang Royale",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/130614114257-malaysia-food.jpg?q=w_1200,h_800,x_0,y_0,c_fill",
+        "description": "Rendang Royale offers a regal experience with its tender and aromatic rendang dishes.",
+        "categoryId": 10,
+        "ratingCount": 93,
+        "rating": 4.7
+    },
+    {
+        "id": 46,
+        "name": "Satay Street",
+        "image": "https://cdn-v2.theculturetrip.com/1200x900/wp-content/uploads/2018/08/shutterstock_648976399.jpg",
+        "description": "Satay Street is your go-to destination for delicious and skewered satay dishes.",
+        "categoryId": 10,
+        "ratingCount": 91,
+        "rating": 4.6
+    },
+    {
+        "id": 47,
+        "name": "Laksa Haven",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4Au-u_mtnCggTTymvP1KWsSmvoNC3k6ShQ&usqp=CAU",
+        "description": "Laksa Haven specializes in a variety of laksa dishes, from creamy to spicy broths.",
+        "categoryId": 10,
+        "ratingCount": 95,
+        "rating": 4.9
+    },
+    {
+        "id": 48,
+        "name": "Malay Bazaar",
+        "image": "https://www.gourmandtrotter.com/wp-content/uploads/2020/01/Food-from-Malaysia-680x453.jpg",
+        "description": "Malay Bazaar offers a diverse menu of Malay street food and traditional specialties.",
+        "categoryId": 10,
+        "ratingCount": 88,
+        "rating": 4.5
+    },
+    {
+        "id": 49,
+        "name": "Green Garden Cafe",
+        "image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/vegetarian-diet-plan-1296x728-feature.jpg",
+        "description": "Green Garden Cafe is a vegetarian haven, serving delicious and healthy plant-based dishes.",
+        "categoryId": 11,
+        "ratingCount": 98,
+        "rating": 4.9
+    },
+    {
+        "id": 50,
+        "name": "Veggie Delights",
+        "image": "https://images.unsplash.com/photo-1598449426314-8b02525e8733?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dmVnZXRhcmlhbiUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+        "description": "Veggie Delights offers a diverse menu of vegetarian dishes, from salads to hearty entrees.",
+        "categoryId": 11,
+        "ratingCount": 94,
+        "rating": 4.7
+    },
+    {
+        "id": 51,
+        "name": "Plant-Based Paradise",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc23ggR91jRUouvMyg0HQXsslGt7gVhAV_aA&usqp=CAU",
+        "description": "Plant-Based Paradise specializes in creative and delicious plant-based cuisine.",
+        "categoryId": 11,
+        "ratingCount": 91,
+        "rating": 4.6
+    },
+    {
+        "id": 52,
+        "name": "The Veggie Bistro",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pxRLDF-ZPj553fEUrBlbNNplANBT_jrfdw&usqp=CAU",
+        "description": "The Veggie Bistro offers a variety of vegetarian dishes with a focus on fresh and locally sourced ingredients.",
+        "categoryId": 11,
+        "ratingCount": 96,
+        "rating": 4.8
+    },
+    {
+        "id": 53,
+        "name": "Herb Haven",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-chickpea-salad-smashed-cucumbers-1656600167.jpeg",
+        "description": "Herb Haven is a herb-infused vegetarian paradise, offering a unique blend of flavors.",
+        "categoryId": 11,
+        "ratingCount": 89,
+        "rating": 4.5
+    },
+    {
+        "id": 54,
+        "name": "Sultan's Feast",
+        "image": "https://tb-static.uber.com/prod/image-proc/processed_images/6f741a0576d0969bd997b7ed5691e88c/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg",
+        "description": "Sultan's Feast offers a regal dining experience with a menu of exquisite Halal dishes.",
+        "categoryId": 12,
+        "ratingCount": 97,
+        "rating": 4.8
+    },
+    {
+        "id": 55,
+        "name": "Biryani Delights",
+        "image": "https://assets3.thrillist.com/v1/image/3080303/792x587/scale;webp=auto;jpeg_quality=60;progressive.jpg",
+        "description": "Biryani Delights serves a variety of aromatic biryani dishes made with Halal ingredients.",
+        "categoryId": 12,
+        "ratingCount": 93,
+        "rating": 4.7
+    },
+    {
+        "id": 56,
+        "name": "Kebab Kingdom",
+        "image": "https://www.paturkey.com/wp-content/uploads/2022/11/halal.jpeg",
+        "description": "Kebab Kingdom offers a royal selection of Halal kebabs and grilled specialties.",
+        "categoryId": 12,
+        "ratingCount": 91,
+        "rating": 4.6
+    },
+    {
+        "id": 57,
+        "name": "Shawarma Delight",
+        "image": "https://i.insider.com/57b47a9cdb5ce950008b7370?width=889&format=jpeg",
+        "description": "Shawarma Delight serves mouthwatering Halal shawarma with a variety of flavors and sauces.",
+        "categoryId": 12,
+        "ratingCount": 95,
+        "rating": 4.9
+    },
+    {
+        "id": 58,
+        "name": "Halal Fusion",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7NhaCuOChgLPT7Oq2J6UIAim3n_-l1Td7Tg&usqp=CAU",
+        "description": "Halal Fusion combines global flavors with Halal ingredients, creating a unique dining experience.",
+        "categoryId": 12,
+        "ratingCount": 88,
+        "rating": 4.5
+    },
+    {
+        "id": 59,
+        "name": "Fresh Greens Cafe",
+        "image": "https://www.eatingwell.com/thmb/m5xUzIOmhWSoXZnY-oZcO9SdArQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/article_291139_the-top-10-healthiest-foods-for-kids_-02-4b745e57928c4786a61b47d8ba920058.jpg",
+        "description": "Fresh Greens Cafe offers a menu filled with fresh and healthy salads, wraps, and smoothies.",
+        "categoryId": 13,
+        "ratingCount": 95,
+        "rating": 4.8
+    },
+    {
+        "id": 60,
+        "name": "Fit Bites Express",
+        "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/healthy-eating-ingredients-732x549-thumbnail.jpg",
+        "description": "Fit Bites Express is your destination for nutritious and delicious meal options for a healthier lifestyle.",
+        "categoryId": 13,
+        "ratingCount": 90,
+        "rating": 4.7
+    },
+    {
+        "id": 61,
+        "name": "Guilt-Free Delights",
+        "image": "https://img.freepik.com/free-photo/buddha-bowl-dish-with-vegetables-legumes-top-view_1150-42589.jpg",
+        "description": "Guilt-Free Delights specializes in satisfying your cravings with wholesome yet delicious options.",
+        "categoryId": 13,
+        "ratingCount": 88,
+        "rating": 4.6
+    },
+    {
+        "id": 62,
+        "name": "Nutrition Oasis",
+        "image": "https://thumbs.dreamstime.com/b/heart-shape-various-vegetables-fruits-healthy-food-concept-isolated-white-background-140287808.jpg",
+        "description": "Nutrition Oasis offers a wide range of nutritious dishes and beverages to keep you energized.",
+        "categoryId": 13,
+        "ratingCount": 94,
+        "rating": 4.9
+    },
+    {
+        "id": 63,
+        "name": "Wellness Haven",
+        "image": "https://www.ucsfhealth.org/-/media/project/ucsf/ucsf-health/education/hero/top-ten-foods-for-health-2x.jpg",
+        "description": "Wellness Haven is dedicated to promoting a balanced and healthy lifestyle through its menu.",
+        "categoryId": 13,
+        "ratingCount": 91,
+        "rating": 4.5
+    },
+    {
+        "id": 64,
+        "name": "Cafe Latte Bliss",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/5/29/0/FN_Cold-Drinks-Opener_s4x3.jpg.rend.hgtvcom.616.462.suffix/1401377469671.jpeg",
+        "description": "Cafe Latte Bliss offers a delightful array of coffee, lattes, and espresso beverages.",
+        "categoryId": 14,
+        "ratingCount": 92,
+        "rating": 4.8
+    },
+    {
+        "id": 65,
+        "name": "Tea Haven",
+        "image": "https://i.pinimg.com/1200x/aa/1e/c9/aa1ec920c3cd1fe217777103b7b9f0e7.jpg",
+        "description": "Tea Haven is a paradise for tea enthusiasts, with an extensive selection of teas from around the world.",
+        "categoryId": 14,
+        "ratingCount": 88,
+        "rating": 4.7
+    },
+    {
+        "id": 66,
+        "name": "Fresh Juice Bar",
+        "image": "https://media.healthyfood.com/wp-content/uploads/2017/03/How-to-choose-fruit-juices-and-drinks-500x500.jpg",
+        "description": "Fresh Juice Bar offers a wide variety of freshly squeezed juices, smoothies, and healthy beverages.",
+        "categoryId": 14,
+        "ratingCount": 90,
+        "rating": 4.6
+    },
+    {
+        "id": 67,
+        "name": "Craft Beer House",
+        "image": "https://thumbs.dreamstime.com/b/food-drink-fried-fish-beer-table-beer-restaurant-high-resolution-food-drink-meat-rolls-beer-table-118329717.jpg",
+        "description": "Craft Beer House is your destination for a diverse selection of craft beers and brews.",
+        "categoryId": 14,
+        "ratingCount": 94,
+        "rating": 4.9
+    },
+    {
+        "id": 68,
+        "name": "Wine Cellar Delights",
+        "image": "https://st2.depositphotos.com/1177973/8430/i/450/depositphotos_84309564-stock-photo-still-life-with-various-types.jpg",
+        "description": "Wine Cellar Delights offers an extensive wine list, perfect for wine connoisseurs and enthusiasts.",
+        "categoryId": 14,
+        "ratingCount": 91,
+        "rating": 4.5
+    },
+    {
+        "id": 69,
+        "name": "Sunrise Cafe",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/plus/fullset/2020/04/30/0/FNK_The-Best-Cheddar-And-Herb-Chaffle_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1588257306685.jpeg",
+        "description": "Sunrise Cafe offers a sunny breakfast and brunch menu that brightens your day.",
+        "categoryId": 15,
+        "ratingCount": 92,
+        "rating": 4.8
+    },
+    {
+        "id": 70,
+        "name": "Pancake Paradise",
+        "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/09/Homemade_Pancakes_With_Chocolate_Chips.png",
+        "description": "Pancake Paradise is known for its fluffy and delectable pancake creations.",
+        "categoryId": 15,
+        "ratingCount": 89,
+        "rating": 4.7
+    },
+    {
+        "id": 71,
+        "name": "Eggcellent Delights",
+        "image": "https://customkeepsakes.ie/wp-content/uploads/2023/06/BBE001-Eggcellent-Granny.jpg",
+        "description": "Eggcellent Delights serves a variety of egg-based dishes to satisfy breakfast cravings.",
+        "categoryId": 15,
+        "ratingCount": 90,
+        "rating": 4.6
+    },
+    {
+        "id": 72,
+        "name": "Healthy Start Cafe",
+        "image": "https://media.self.com/photos/5e5fe10c1a8b3a0008d5c5cb/1:1/w_1600%2Cc_limit/cottage-cheese-rainbow-bowl.jpg",
+        "description": "Healthy Start Cafe provides nutritious breakfast options to kickstart your day.",
+        "categoryId": 15,
+        "ratingCount": 94,
+        "rating": 4.9
+    },
+    {
+        "id": 73,
+        "name": "Classic Breakfast House",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GfvbR5iDsuXtCKtaCeiJkQVyb15UBvgQwA&usqp=CAU",
+        "description": "Classic Breakfast House offers traditional and classic breakfast favorites for all to enjoy.",
+        "categoryId": 15,
+        "ratingCount": 91,
+        "rating": 4.5
+    }
+]
