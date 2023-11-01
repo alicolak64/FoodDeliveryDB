@@ -1,32 +1,5 @@
 [
     {
-        "id": 1,
-        "name": "Turk Fatih Tutak",
-        "image": "https://i.lezzet.com.tr/images-800x600/c18cee09-350d-4c2d-8cf3-2295ba1587a8-1c302ffc-fac0-4052-873f-a229e9ddce3d",
-        "description": "Turkish chef Fatih Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. ",
-        "categoryId": 1,
-        "ratingCount": 124,
-        "rating": 4.5
-    },
-    {
-        "id": 2,
-        "name": "7 Mehmet",
-        "image": "https://a.cdn-hotels.com/gdcs/production198/d1455/18acea99-7a13-481e-9f37-d8e4fe307a47.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
-        "description": "7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. ",
-        "categoryId": 1,
-        "ratingCount": 89,
-        "rating": 4.9
-    },
-    {
-        "id": 3,
-        "name": "Karaköy Lokantası",
-        "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/1f/e9/e7/photo2jpg.jpg",
-        "description": "",
-        "categoryId": 1,
-        "ratingCount": 128,
-        "rating": 4.7
-    },
-    {
         "id": 7,
         "name": "Tropical Tastes",
         "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/c6/c8/23/mouthwatering-healthy.jpg",
@@ -42,6 +15,15 @@
         "description": "Mama Mia Trattoria serves authentic Italian dishes that will transport you to the heart of Italy.",
         "categoryId": 3,
         "ratingCount": 85,
+        "rating": 4.7
+    },
+    {
+        "id": 23,
+        "name": "Golden Dragon Palace",
+        "image": "https://images.chinahighlights.com/allpicture/2021/12/71879439c9ef4d0da835efb6_cut_750x400_39.jpg",
+        "description": "Golden Dragon Palace offers a regal dining experience with a menu that celebrates Chinese culinary traditions.",
+        "categoryId": 5,
+        "ratingCount": 81,
         "rating": 4.7
     }
 ]

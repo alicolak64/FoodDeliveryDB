@@ -1,29 +1,29 @@
 [
     {
-        "id": 1,
-        "name": "Turk Fatih Tutak",
-        "image": "https://i.lezzet.com.tr/images-800x600/c18cee09-350d-4c2d-8cf3-2295ba1587a8-1c302ffc-fac0-4052-873f-a229e9ddce3d",
-        "description": "Turkish chef Fatih Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. Tutak, who has been living in Singapore for 10 years, has been awarded two Michelin stars for his restaurant in Singapore. ",
-        "categoryId": 1,
-        "ratingCount": 124,
-        "rating": 4.5
+        "id": 12,
+        "name": "Pizza Paradise",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/1200px-Pizza-3007395.jpg",
+        "description": "Pizza Paradise is a haven for pizza lovers, offering a wide selection of delicious pizzas.",
+        "categoryId": 3,
+        "ratingCount": 77,
+        "rating": 4.8
     },
     {
-        "id": 2,
-        "name": "7 Mehmet",
-        "image": "https://a.cdn-hotels.com/gdcs/production198/d1455/18acea99-7a13-481e-9f37-d8e4fe307a47.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
-        "description": "7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. 7 Mehmet, which has been serving in the historical peninsula for 20 years, has been awarded the Michelin star. ",
-        "categoryId": 1,
-        "ratingCount": 89,
-        "rating": 4.9
+        "id": 27,
+        "name": "Mango Masala",
+        "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg",
+        "description": "Mango Masala brings the sweetness of mango and the spiciness of Indian cuisine together for a unique dining experience.",
+        "categoryId": 6,
+        "ratingCount": 96,
+        "rating": 4.8
     },
     {
-        "id": 3,
-        "name": "Karaköy Lokantası",
-        "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/1f/e9/e7/photo2jpg.jpg",
-        "description": "",
-        "categoryId": 1,
-        "ratingCount": 128,
+        "id": 34,
+        "name": "Seoul Delights",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/181114130138-korean-food-2620014201204004k-jeonju-bibimbap.jpg?q=w_1600,h_900,x_0,y_0,c_fill/h_618",
+        "description": "Seoul Delights offers a variety of traditional Korean dishes with a modern twist.",
+        "categoryId": 8,
+        "ratingCount": 92,
         "rating": 4.7
     },
     {
